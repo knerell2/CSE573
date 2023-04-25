@@ -1,2 +1,2 @@
-# CSE573
+# CSE573 - Semantic Web Mining
 Sentiment Analysis
